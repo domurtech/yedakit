@@ -1,0 +1,10 @@
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\bin\Debug\netcoreapp2.0\YedaKit.WebApi.deps.json
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\bin\Debug\netcoreapp2.0\YedaKit.WebApi.runtimeconfig.json
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\bin\Debug\netcoreapp2.0\YedaKit.WebApi.runtimeconfig.dev.json
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\bin\Debug\netcoreapp2.0\YedaKit.WebApi.dll
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\bin\Debug\netcoreapp2.0\YedaKit.WebApi.pdb
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\obj\Debug\netcoreapp2.0\YedaKit.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\obj\Debug\netcoreapp2.0\YedaKit.WebApi.AssemblyInfoInputs.cache
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\obj\Debug\netcoreapp2.0\YedaKit.WebApi.AssemblyInfo.cs
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\obj\Debug\netcoreapp2.0\YedaKit.WebApi.dll
+C:\Users\atifdag\Documents\Projects\Github\yedakit\src\YedaKit\Presentation\YedaKit.WebApi\obj\Debug\netcoreapp2.0\YedaKit.WebApi.pdb
