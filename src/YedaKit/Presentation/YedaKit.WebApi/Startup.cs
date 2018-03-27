@@ -32,6 +32,10 @@ namespace YedaKit.WebApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                //hasan
+
+
+
             }
 
             app.UseMvc();
